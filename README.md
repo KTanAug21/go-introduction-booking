@@ -1,9 +1,9 @@
 # Go-Introduction-Booking-APP
 
-This repository serves as an introductory project that follows TechWorld with Nana's tutorial in [youtube](https://www.youtube.com/watch?v=yyUHQIec83I). 
+This repository serves as an introductory project that follows TechWorld with Nana's tutorial in [youtube!](https://www.youtube.com/watch?v=yyUHQIec83I). 
 
 
-This is a CLI application to learn core concepts and syntax of the Go language
+This is a CLI application to properly learn core concepts and syntax of the Go language
 - Data Types of the Go language ( Basic Types, Type conversions, Slices, Maps, Structs )
 - Variables and Constants ( Syntax: declaration, assignment ) 
 - Formatted Output( fmt, Printf, Println, Print, SPrintf )
@@ -14,5 +14,3 @@ This is a CLI application to learn core concepts and syntax of the Go language
 - Function Encapsulation
 - Package Data+Function Sharing ( Capitalizing public data/functions )
 - Goroutines - concurrency and synchronizing concurrency ( go, WaitGroup )
-
-
